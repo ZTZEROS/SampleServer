@@ -1,0 +1,4 @@
+[Block name] [Accumulated clock count] [Call count] [Average clock count] [Average elapsed time(ms)]
+[main] [13729439] [1] [13729439.000000] [4849.318489]
+[Update] [13729389] [100] [137293.890000] [48.493008]
+[for loop] [5517407] [10000] [551.740700] [0.194878]
